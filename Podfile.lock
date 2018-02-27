@@ -1,0 +1,15 @@
+PODS:
+  - SwiftMQTT (2.0.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - SwiftMQTT
+  - Toast-Swift (~> 3.0.1)
+
+SPEC CHECKSUMS:
+  SwiftMQTT: 1223cdf3056cd9211112e3f136aa221125b457e1
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 13db5b9537899392bcff76e95b2129c06e40f0b3
+
+COCOAPODS: 1.4.0.beta.2
